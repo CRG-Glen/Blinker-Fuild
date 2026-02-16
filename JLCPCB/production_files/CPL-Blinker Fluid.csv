@@ -134,7 +134,7 @@ R62,330,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,185.75,-219.925,180.0,bottom
 R63,330,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,185.75,-222.425,180.0,bottom
 R7,680,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,215.75,-207.125,180.0,bottom
 R71,1k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,205.9475,-180.275,0.0,top
-R72,18k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,205.9475,-181.6,180.0,top
+R72,47k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,205.9475,-181.6,180.0,top
 R8,680,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,215.75,-204.625,180.0,bottom
 R9,680,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,215.75,-202.0,180.0,bottom
 U1,74HCT574,TSSOP-20_4.4x6.5mm_P0.65mm,200.41,-218.625,270.0,top

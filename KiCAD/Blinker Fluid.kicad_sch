@@ -20429,7 +20429,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47k"
 			(at 681.99 243.84 90)
 			(effects
 				(font
@@ -20464,7 +20464,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C25762"
 			(at 680.466 243.84 0)
 			(effects
 				(font
@@ -21936,7 +21936,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "1uf"
 			(at 669.29 254.546 0)
 			(effects
 				(font
@@ -21972,7 +21972,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7171"
+		(property "LCSC" "C1953183"
 			(at 669.29 252.006 0)
 			(effects
 				(font
