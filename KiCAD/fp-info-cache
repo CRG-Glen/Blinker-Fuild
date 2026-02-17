@@ -1,4 +1,4 @@
-23971381887562546
+23980235361787427
 8bits_kicad_libraries-master
 Amstrad_CPC_Disc_Conector_2x25_P2.54mm_Double
 Through hole straight pin header, 2x25, 2.54mm pitch, double rows
@@ -2992,6 +2992,20 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CRGs Footprints
+Button contact
+
+
+0
+2
+2
+CRGs Footprints
+Button contact 8mm
+
+
 0
 2
 2
@@ -55133,6 +55147,27 @@ Diego 40x40
 0
 Diego Logo
 Diego Graphic
+
+
+0
+0
+0
+Diego Logo
+Diego QR
+
+
+0
+0
+0
+Diego Logo
+Diego QR 9
+
+
+0
+0
+0
+Diego Logo
+Diego QR 10
 
 
 0

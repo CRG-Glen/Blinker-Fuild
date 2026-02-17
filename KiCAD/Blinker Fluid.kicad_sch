@@ -10755,7 +10755,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 382.27 90)
 			(effects
 				(font
@@ -10928,7 +10928,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 335.28 90)
 			(effects
 				(font
@@ -11005,7 +11005,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 716.28 337.82 90)
 			(effects
 				(font
@@ -11376,7 +11376,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 505.46 337.82 90)
 			(effects
 				(font
@@ -11452,7 +11452,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 332.74 90)
 			(effects
 				(font
@@ -11604,7 +11604,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 505.46 347.98 90)
 			(effects
 				(font
@@ -11680,7 +11680,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 391.16 90)
 			(effects
 				(font
@@ -12030,7 +12030,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 429.26 90)
 			(effects
 				(font
@@ -12106,7 +12106,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 389.89 90)
 			(effects
 				(font
@@ -12456,7 +12456,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 481.33 90)
 			(effects
 				(font
@@ -12609,7 +12609,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 711.2 335.28 90)
 			(effects
 				(font
@@ -12685,7 +12685,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 424.18 90)
 			(effects
 				(font
@@ -12914,7 +12914,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 434.34 90)
 			(effects
 				(font
@@ -13066,7 +13066,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 505.46 471.17 90)
 			(effects
 				(font
@@ -13142,7 +13142,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 737.87 386.08 90)
 			(effects
 				(font
@@ -13370,7 +13370,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 509.27 473.71 90)
 			(effects
 				(font
@@ -14515,7 +14515,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 715.01 381 90)
 			(effects
 				(font
@@ -15038,7 +15038,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 421.64 90)
 			(effects
 				(font
@@ -15455,7 +15455,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 711.2 330.2 90)
 			(effects
 				(font
@@ -15531,7 +15531,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 425.45 90)
 			(effects
 				(font
@@ -15904,7 +15904,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 716.28 342.9 90)
 			(effects
 				(font
@@ -16136,7 +16136,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 474.98 90)
 			(effects
 				(font
@@ -16213,7 +16213,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 711.2 378.46 90)
 			(effects
 				(font
@@ -16289,7 +16289,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 509.27 345.44 90)
 			(effects
 				(font
@@ -16365,7 +16365,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 483.87 90)
 			(effects
 				(font
@@ -16441,7 +16441,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 392.43 90)
 			(effects
 				(font
@@ -16650,7 +16650,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 388.62 90)
 			(effects
 				(font
@@ -16805,7 +16805,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 330.2 90)
 			(effects
 				(font
@@ -16881,7 +16881,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 435.61 90)
 			(effects
 				(font
@@ -17395,7 +17395,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 509.27 340.36 90)
 			(effects
 				(font
@@ -17472,7 +17472,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 711.2 345.44 90)
 			(effects
 				(font
@@ -17957,7 +17957,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 377.19 90)
 			(effects
 				(font
@@ -18099,7 +18099,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 472.44 90)
 			(effects
 				(font
@@ -18175,7 +18175,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 477.52 90)
 			(effects
 				(font
@@ -18403,7 +18403,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 469.9 90)
 			(effects
 				(font
@@ -18479,7 +18479,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 482.6 90)
 			(effects
 				(font
@@ -18555,7 +18555,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 433.07 90)
 			(effects
 				(font
@@ -18696,7 +18696,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 509.27 468.63 90)
 			(effects
 				(font
@@ -18772,7 +18772,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 438.15 90)
 			(effects
 				(font
@@ -18925,7 +18925,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 478.79 90)
 			(effects
 				(font
@@ -19001,7 +19001,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 485.14 90)
 			(effects
 				(font
@@ -19153,7 +19153,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 420.37 90)
 			(effects
 				(font
@@ -19239,7 +19239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 657.86 276.86 0)
 			(effects
 				(font
@@ -19308,7 +19308,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 711.2 386.08 90)
 			(effects
 				(font
@@ -19385,7 +19385,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 681.99 257.81 90)
 			(effects
 				(font
@@ -19393,7 +19393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 681.99 257.81 0)
 			(effects
 				(font
@@ -20200,7 +20200,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 505.46 466.09 90)
 			(effects
 				(font
@@ -20437,7 +20437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 681.99 243.84 0)
 			(effects
 				(font
@@ -20723,7 +20723,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 436.88 90)
 			(effects
 				(font
@@ -20952,7 +20952,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 716.28 347.98 90)
 			(effects
 				(font
@@ -21094,7 +21094,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 431.8 90)
 			(effects
 				(font
@@ -21376,7 +21376,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 477.52 379.73 90)
 			(effects
 				(font
@@ -22078,7 +22078,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 430.53 90)
 			(effects
 				(font
@@ -22230,7 +22230,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 505.46 342.9 90)
 			(effects
 				(font
@@ -22450,7 +22450,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 715.01 375.92 90)
 			(effects
 				(font
@@ -22605,7 +22605,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 439.42 90)
 			(effects
 				(font
@@ -22681,7 +22681,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 422.91 90)
 			(effects
 				(font
@@ -22834,7 +22834,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 711.2 340.36 90)
 			(effects
 				(font
@@ -23054,7 +23054,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "620"
 			(at 716.28 332.74 90)
 			(effects
 				(font
@@ -23329,7 +23329,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 426.72 90)
 			(effects
 				(font
@@ -23546,7 +23546,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 427.99 90)
 			(effects
 				(font
@@ -23699,7 +23699,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 509.27 387.35 90)
 			(effects
 				(font
@@ -23775,7 +23775,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 715.01 480.06 90)
 			(effects
 				(font
@@ -23851,7 +23851,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "820"
 			(at 709.93 467.36 90)
 			(effects
 				(font
@@ -24459,7 +24459,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "470"
 			(at 505.46 384.81 90)
 			(effects
 				(font
