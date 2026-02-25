@@ -56,5 +56,6 @@ cathode (negative) pin.
 
 CERN Open Hardware Licence v2
 
-Do with as you like just don't blame me if your Amiga goes up in smoke!
+Do with as you like just don't blame me if your computer, console or whatever else you install this in
+goes up in smoke!
 
