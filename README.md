@@ -21,18 +21,16 @@ You can adjust R72 to change the speed of the 555.
 
 ## Assembly
 
-Within the JLCPCB folder you will find Gerbers along with a BOM and CPL files suited to LSSC components.
+Within the JLCPCB folder you will find Gerbers along with a BOM and CPL files suited to LCSC components.
 
-The board can be produced with the HASL finish, no need to pay for EINT on this one but its mostly 0402 so 
+The board can be produced with the HASL finish, no need to pay for EINT on this one but its mostly 0603 so 
 get JLC (or equal) to do all SMD work.
 
-Please note the BOM as included takes for RED LEDs on the DATABUS pins, GREEN LEDs on the ADDRESS BUS pins 
-and BLUE LEDs on all CONTROL SIGNALS.  Power LEDs are white.  Feel free to change the colours, just remember 
+Please note the BOM as included takes for RED LEDs for everything.  Feel free to change colours but remember 
 you also need to adjust the resistor directly below each LED on the bottom side to suit your LEDs!
 
 To keep the board tidy, there are no LED or Resistor designations on the PCB.  Just remember its all LEDs 
-on the top side and all RESISTORs on the bottom side.  The dot on the silkscreen at each LED denotes the 
-cathode (negative) pin.  
+on the top side and all RESISTORs on the bottom side.  
 
 
 ## Bill of Materials
@@ -41,13 +39,13 @@ cathode (negative) pin.
 | --- | --- | --- |
 | U1 - U8 | 74HCT574 | TSSOP20 |
 | U9 | NE555 | TSSOP8 |
-| LEDs | pick a colour | 0402 |
-| Resistors | to suit your LED | 0402 |
+| LEDs | pick a colour | 0603 |
+| Resistors | to suit your LED | 0603 |
 | R71 | 10k ohm 1% | 0805 |
 | R72 | 47kohm 1% | 0805 |
 | C71 | 1uF | 0805 Tantalum |
 | C72 | 10nF |0805 |
-| C1-C8 + C73 | 0.1uF | 0402 ceramic |
+| C1-C8 + C73 | 0.1uF | 0603 ceramic |
 | PINS | round | individual machine pins |
 
 
