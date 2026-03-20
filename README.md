@@ -60,7 +60,7 @@ goes up in smoke!
 
 ## Credits
 
-PCB by CRG
+PCB by CRG(Glen)
 
 Artwork by Brick Studios
 
