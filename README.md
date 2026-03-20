@@ -46,7 +46,7 @@ on the top side and all RESISTORs on the bottom side.
 | C71 | 1uF | 0805 Tantalum |
 | C72 | 10nF |0805 ceramic |
 | C1-C8 + C73 | 0.1uF | 0603 ceramic |
-| PINS | round | individual machine pins |
+| PINS | 0.5mm x 2.54mm x 9.7mm | individual machine pins |
 
 
 
