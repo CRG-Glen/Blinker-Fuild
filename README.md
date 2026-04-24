@@ -1,4 +1,4 @@
-# BLINKER FLUID (board faulty do not build)
+# BLINKER FLUID
 
 A completely pointless project.  
 
